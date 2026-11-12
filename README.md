@@ -81,7 +81,3 @@
     </td>
   </tr>
 </table>
-
----
-
-<p align="center"><i>Currently in the Mind Palace. 🎪</i></p>

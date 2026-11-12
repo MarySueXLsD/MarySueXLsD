@@ -1,9 +1,8 @@
 <h1 align="center">Hi, I'm MarySue 🎪</h1>
 
 <p align="center">
-  <b>I build games and odd little tools.</b><br>
-  Jam games in Haxe and Daslang, a private AI that lives on your PC,<br>
-  and a drum machine you play with a PlayStation controller.
+  <b>I make games and odd little tools.</b><br>
+  Games, toys and whatever I'm curious about this week.
 </p>
 
 <p align="center">
@@ -13,7 +12,7 @@
 </p>
 
 <p align="center">
-  <a href="https://marysue.itch.io"><b>🎮 My games on itch.io</b></a>
+  <a href="https://marysue.itch.io"><b>🎮 marysue.itch.io</b></a>
   &nbsp;·&nbsp;
   <a href="https://t.me/marysue">Telegram</a>
   &nbsp;·&nbsp;
@@ -46,11 +45,9 @@
       <br>You usurped the throne. Now balance the factions and survive 365 days of rule.
       <br><a href="https://marysue.itch.io/the-weight-of-the-crown">⬇ Download for Windows</a>
     </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/MarySueXLsD/Kill-em-All.io"><img src="https://raw.githubusercontent.com/MarySueXLsD/Kill-em-All.io/main/.project/screenshots/shot_2026.06.20_18.21.33.jpeg" width="100%" alt="Kill 'em All.io"></a>
-      <br><b><a href="https://github.com/MarySueXLsD/Kill-em-All.io">Kill 'em All.io</a></b> · Daslang
-      <br>Isometric horde-survival slasher. Fight waves, level up, see how long you last.
-      <br><a href="https://edenspark.io">▶ Play on EdenSpark</a> <i>(alpha demo)</i>
+    <td width="50%" align="center" valign="middle">
+      <a href="https://marysue.itch.io"><b>🎮 More games on itch.io →</b></a>
+      <br><a href="https://marysue.itch.io">marysue.itch.io</a>
     </td>
   </tr>
 </table>
@@ -60,7 +57,7 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/MarySueXLsD/SensePad"><img src="https://raw.githubusercontent.com/MarySueXLsD/SensePad/main/docs/preview.gif" width="100%" alt="SensePad"></a>
+      <a href="https://github.com/MarySueXLsD/SensePad"><img src="https://raw.githubusercontent.com/MarySueXLsD/MarySueXLsD/main/assets/sensepad.gif" width="100%" alt="SensePad"></a>
       <br><b><a href="https://github.com/MarySueXLsD/SensePad">SensePad</a></b> · Rust
       <br>Turns a DualSense controller into a drum machine: pads, a looper and DJ effects.
     </td>
@@ -72,7 +69,7 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/MarySueXLsD/Silent-Hill-2-Remake-Cooperative-Mod"><img src="https://raw.githubusercontent.com/MarySueXLsD/Silent-Hill-2-Remake-Cooperative-Mod/main/docs/preview/two-players-front.webp" width="100%" alt="Silent Hill 2 co-op"></a>
+      <a href="https://github.com/MarySueXLsD/Silent-Hill-2-Remake-Cooperative-Mod"><img src="https://raw.githubusercontent.com/MarySueXLsD/MarySueXLsD/main/assets/silent-hill-2-coop.jpg" width="100%" alt="Silent Hill 2 co-op: Maria running towards James"></a>
       <br><b><a href="https://github.com/MarySueXLsD/Silent-Hill-2-Remake-Cooperative-Mod">Silent Hill 2 Co-op</a></b> · Lua
       <br>Two-player co-op for a single-player game: shared inventory, shared enemies, shared story.
     </td>

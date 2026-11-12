@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm MarySue 🎪</h1>
+<h1 align="center">Hi, I'm MarySue :) </h1>
 
 <p align="center">
   <b>I make games and odd little tools.</b><br>

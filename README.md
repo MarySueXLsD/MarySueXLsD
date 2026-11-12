@@ -29,13 +29,11 @@
       <a href="https://marysue.itch.io/am-i-approved"><img src="https://raw.githubusercontent.com/MarySueXLsD/Am-I-Approved-web-game/main/assets/itch/banner.gif" width="100%" alt="Am I Approved?"></a>
       <br><b><a href="https://github.com/MarySueXLsD/Am-I-Approved-web-game">Am I Approved?</a></b> · Haxe
       <br>A loan desk in the Republic of Loria, 1967. Approve the honest loans, catch the fake IDs. Management left early.
-      <br><a href="https://marysue.itch.io/am-i-approved">▶ Play in your browser</a>
     </td>
     <td width="50%" valign="top">
       <a href="https://marysue.itch.io/hyperdash"><img src="https://raw.githubusercontent.com/MarySueXLsD/HYPERDASH-web-game/main/dist/itch/theme/banner_960x300.gif" width="100%" alt="HYPERDASH"></a>
       <br><b><a href="https://github.com/MarySueXLsD/HYPERDASH-web-game">HYPERDASH</a></b> · Haxe
       <br>Five couriers, one parcel, two minutes. A pixel-art microgame dash across the galaxy.
-      <br><a href="https://marysue.itch.io/hyperdash">▶ Play in your browser</a>
     </td>
   </tr>
   <tr>
@@ -43,7 +41,6 @@
       <a href="https://marysue.itch.io/the-weight-of-the-crown"><img src="https://raw.githubusercontent.com/MarySueXLsD/The-Weight-of-the-Crown-game/main/docs/itch/banner.gif" width="100%" alt="The Weight of the Crown"></a>
       <br><b><a href="https://github.com/MarySueXLsD/The-Weight-of-the-Crown-game">The Weight of the Crown</a></b> · Daslang
       <br>You usurped the throne. Now balance the factions and survive 365 days of rule.
-      <br><a href="https://marysue.itch.io/the-weight-of-the-crown">⬇ Download for Windows</a>
     </td>
     <td width="50%" align="center" valign="middle">
       <a href="https://marysue.itch.io"><b>🎮 More games on itch.io →</b></a>
